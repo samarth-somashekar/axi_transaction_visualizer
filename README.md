@@ -1,14 +1,3 @@
-axi_transaction_visualizer/
-├── logs/
-│   └── sample_axi_log.txt
-├── src/
-│   ├── parser.py
-│   ├── plot_axi.py
-├── output/
-│   └── axi_timeline.png      ← saved output image
-├── README.md                 ← write this now
-├── requirements.txt
-
 # AXI Transaction Visualizer
 
 This tool parses AXI protocol transaction logs (AW, W, B, AR, R channels) and generates Gantt-style visualizations for timeline-level debugging.
