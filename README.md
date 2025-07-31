@@ -2,7 +2,8 @@
 
 This tool parses AXI protocol transaction logs (AW, W, B, AR, R channels) and generates Gantt-style visualizations for timeline-level debugging.
 
-![AXI Timeline](output/axi_timeline.png)
+![AXI Timeline]<img width="3600" height="1500" alt="image" src="https://github.com/user-attachments/assets/7cb76936-980d-441e-aee4-d0b0d96420de" />
+
 
 ---
 
