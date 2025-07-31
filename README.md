@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Used-in-blue)
+![Status](https://img.shields.io/badge/Status-Working-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 # AXI Transaction Visualizer
 
 This tool parses AXI protocol transaction logs (AW, W, B, AR, R channels) and generates Gantt-style visualizations for timeline-level debugging.
